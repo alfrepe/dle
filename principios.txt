@@ -1,0 +1,6 @@
+Algunas palabras como 'bardado' tienen varias acepciones; en este momento aparecen:
+bardar
+bardado1, da
+bardado2, da
+Devolver estas palabras resulta inviable porque no podemos saber donde comienza una y acaba otra. Las expresiones regulares podrían ser una opción.
+El programa por ahora se limitará a mostrar un mensaje si encuentra esta situación.

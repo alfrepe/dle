@@ -1,0 +1,9 @@
+# vscode
+*.code-workspace
+.vscode
+__pycache__/
+tiempos
+*.db
+palabras/
+audios/
+REVISION.txt
